@@ -1,0 +1,11 @@
+.cardfotter{
+    margin: 20px;
+}
+p{
+    font-weight: 600;
+    font-style:oblique;
+}
+.imageCard{
+   width:100%;
+   border-radius: 5px;
+}
